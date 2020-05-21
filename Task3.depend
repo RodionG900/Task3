@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557175268 source:c:\users\dns\desktop\c\Семестр 2\task3\task3\main.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<string>
+
+1557175268 source:c:\users\rodio\desktop\Семестр 2\task3\task3\main.cpp
+	<cstdlib>
+	<cstring>
+	<iostream>
+	<string>
+
